@@ -1,0 +1,73 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal, all slices", 
+    "commit": "da33cb55cbfafa50b7940f0df325f98ecc201b5f", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "64125", 
+    "increment": 1, 
+    "intensity_scalar": 1.0, 
+    "irradiation": "NM-281", 
+    "irradiation_level": "C", 
+    "irradiation_position": 17, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "bi", 
+    "measurement": "", 
+    "project": "FootPrint", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "FootPrint", 
+    "sample": "FPB-10", 
+    "spec_sha": "be134c4077286cf9f6a6b1e508b148bf8a89c010", 
+    "timestamp": "2016-01-21T07:59:53", 
+    "tripped_conditional": null, 
+    "username": "BMcIntosh", 
+    "uuid": "187e3650-c31d-46e4-804e-2c6b1489fa05"
+}
